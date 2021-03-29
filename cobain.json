@@ -1,0 +1,18 @@
+{
+    "namaGerobak":"sate patil",
+    "fotoGerobak":"inibentuknyalink",
+    "tipeBarang": "makanan",
+    "idUser":1,
+    "statusAntar": true,
+    "statusJemput": false,
+    "listMenu": [
+        {
+            "namaMenu":"sate ayam",
+            "harga": 15000
+        },
+        {
+            "namaMenu": "sate kikil",
+            "harga": 16000
+        }
+    ]
+}
